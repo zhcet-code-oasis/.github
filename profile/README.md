@@ -33,7 +33,7 @@ ZHCET Code Oasis operates on the principle of equal participation and shared own
 We offer a wide range of exciting projects across various domains and technologies. These projects are designed to challenge and inspire our members, helping them expand their skill sets and gain practical experience. Our goal is to provide a platform where students can work on real-world projects and contribute to the open-source community.
 Join us at ZHCET Code Oasis and be a part of our growing community of open-source enthusiasts. Here's how you can get involved:
 
-- Join our [Slack Server]() to connect with fellow members, discuss ideas, and collaborate on projects.
+- Join our [Slack Server](https://join.slack.com/t/zhcet-code-oasis/shared_invite/zt-1z3oxnha8-IMP8DJPTdeMZuNMmPUfVQg) to connect with fellow members, discuss ideas, and collaborate on projects.
 
 - Attend our meetups, workshops, and hackathons to learn new skills, network with like-minded individuals, and contribute to exciting projects.
 
