@@ -1,6 +1,6 @@
 # ZHCET Code Oasis
 
-Welcome to ZHCET Code Oasis, an open-source club at ZHCET, dedicated to fostering a collaborative environment for open-source development and building a strong community of passionate learners and creators.
+Welcome to ZHCET Code Oasis, an open-source community based in ZHCET, dedicated to fostering a collaborative environment for open-source development and building a strong community of passionate learners and creators.
 
 ## Our Vision
 
@@ -35,7 +35,7 @@ Join us at ZHCET Code Oasis and be a part of our growing community of open-sourc
 
 - Join our [Slack Server](https://join.slack.com/t/zhcet-code-oasis/shared_invite/zt-1z3oxnha8-IMP8DJPTdeMZuNMmPUfVQg) to connect with fellow members, discuss ideas, and collaborate on projects.
 
-- Attend our meetups, workshops, and hackathons to learn new skills, network with like-minded individuals, and contribute to exciting projects.
+- Attend our meetups, workshops, and hackathons to learn new skills, network with like-minded individuals, and contribute to exciting projects. 
 
 We look forward to having you as a part of ZHCET Code Oasis!
 
