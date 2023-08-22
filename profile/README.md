@@ -28,6 +28,15 @@ ZHCET Code Oasis operates on the principle of equal participation and shared own
 
 ## Get Involved
 
+### Become a Member
+
+Join the organisation via Email using a GH Actions workflow <br>
+<b>Follow these steps:</b> 
+<br>
+- Go to the issues tab on zhcet-code-oasis github
+- Add a new issue from the template named "Organisation Invitation"
+- Check your email for joining link for organisation
+
 ### Exciting Projects
 
 We offer a wide range of exciting projects across various domains and technologies. These projects are designed to challenge and inspire our members, helping them expand their skill sets and gain practical experience. Our goal is to provide a platform where students can work on real-world projects and contribute to the open-source community.
