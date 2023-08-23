@@ -28,9 +28,7 @@ ZHCET Code Oasis operates on the principle of equal participation and shared own
 
 ## Get Involved
 
-### Become a Member
-
-[Join Our Org](https://github.com/zhcet-code-oasis/.github/issues/new?assignees=&labels=invite+me+to+the+organization&projects=&template=organization-invitation.md&title=Join+Org) <br>
+### [Become a Member](https://github.com/zhcet-code-oasis/.github/issues/new?assignees=&labels=invite+me+to+the+organization&projects=&template=organization-invitation.md&title=Join+Org)
 <b>After submitting the issue:</b> 
 <br>
 - Check your email for joining link for organisation
