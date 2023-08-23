@@ -30,12 +30,11 @@ ZHCET Code Oasis operates on the principle of equal participation and shared own
 
 ### Become a Member
 
-Join the organisation via Email using a GH Actions workflow <br>
-<b>Follow these steps:</b> 
+[Join Our Org](https://github.com/zhcet-code-oasis/.github/issues/new?assignees=&labels=invite+me+to+the+organization&projects=&template=organization-invitation.md&title=Join+Org) <br>
+<b>After submitting the issue:</b> 
 <br>
-- Go to the issues tab on zhcet-code-oasis github
-- Add a new issue from the template named "Organisation Invitation"
 - Check your email for joining link for organisation
+- Make sure to make your membership public :)
 
 ### Exciting Projects
 
